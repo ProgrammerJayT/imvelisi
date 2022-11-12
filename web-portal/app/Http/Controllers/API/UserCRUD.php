@@ -8,4 +8,7 @@ use Illuminate\Http\Request;
 class UserCRUD extends Controller
 {
     //
+    public static function create(Request $req){
+        //
+    }
 }
